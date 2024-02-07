@@ -1,1 +1,1 @@
-# CENG112_HW2_G07
+# Car Rental Simulation
